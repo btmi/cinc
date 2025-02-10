@@ -4,7 +4,7 @@ This is the public **CinC** repository maintained by publishers subscribed to th
 
 The content of the [cinc.json](https://cinc.zinfonia.com/cinc.json) provides detail of the global distribution rules used by publishers to redirect any content to the appropriate representative sorted by Country (based on the ISO 3166-1 alpha-2 standard).
 
-Subscribed publishers can make changes to this information int the [Connect in Copyright](https://www.incopyright.com/cinc) section of the In© portal.
+Subscribed publishers can make changes to this information in the [Connect in Copyright](https://www.incopyright.com/cinc) section of the In© portal.
 
 Any errors in the distributor address information can be fixed by contacting Zinfonia Holdings [here](https://www.incopyright.com/contactus?subject=Address+Change)
 
