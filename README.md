@@ -8,7 +8,7 @@ Subscribed publishers can make changes to this information in the [Connect in Co
 
 Any errors in the distributor address information can be fixed by contacting Zinfonia Holdings [here](https://www.incopyright.com/contactus?subject=Address+Change)
 
-The files are updated every day at 02:00am (all dates and times are in UTC).
+The files are updated as required at 02:00am (all dates and times are in UTC).
 
 ### for more information
 [https://www.zinfonia.com](https://www.zinfonia.com)
