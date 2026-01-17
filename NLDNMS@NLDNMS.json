@@ -1,0 +1,958 @@
+{
+  "cinc": "NLDNMS@NLDNMS",
+  "lastUpdate": "2023-12-06T06:09:35Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "US",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "NLDNMS"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "NLDNMS"
+    }
+  ]
+}

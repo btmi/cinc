@@ -1,0 +1,958 @@
+{
+  "cinc": "USSBTO@USSBTO",
+  "lastUpdate": "2023-12-06T07:31:36Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "USSBTO"
+    }
+  ]
+}

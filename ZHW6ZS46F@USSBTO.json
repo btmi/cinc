@@ -1,0 +1,66 @@
+{
+  "cinc": "ZHW6ZS46F@USSBTO",
+  "lastUpdate": "2024-01-07T05:27:22Z",
+  "rules": [
+    {
+      "alpha2": "BZ",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USSBTO"
+    }
+  ]
+}

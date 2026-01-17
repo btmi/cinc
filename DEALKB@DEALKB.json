@@ -1,0 +1,958 @@
+{
+  "cinc": "DEALKB@DEALKB",
+  "lastUpdate": "2024-01-07T05:24:19Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "US",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "DEALKB"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "DEALKB"
+    }
+  ]
+}

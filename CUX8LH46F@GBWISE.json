@@ -1,0 +1,110 @@
+{
+  "cinc": "CUX8LH46F@GBWISE",
+  "lastUpdate": "2024-01-07T05:26:50Z",
+  "rules": [
+    {
+      "alpha2": "AR",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "ESMNGE"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "ITSNZO"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "JPZENN"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "NLALBV"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "PTINTM"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USWISE"
+    }
+  ]
+}

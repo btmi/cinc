@@ -1,0 +1,22 @@
+{
+  "cinc": "ZYE1S2Q6F@USTPSR",
+  "lastUpdate": "2025-11-11T23:08:41Z",
+  "rules": [
+    {
+      "alpha2": "CA",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USTPSR"
+    }
+  ]
+}

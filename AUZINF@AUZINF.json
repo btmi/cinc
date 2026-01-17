@@ -1,0 +1,958 @@
+{
+  "cinc": "AUZINF@AUZINF",
+  "lastUpdate": "2023-12-08T10:31:54Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "US",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "AUZINF"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "AUZINF"
+    }
+  ]
+}

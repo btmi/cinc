@@ -1,0 +1,958 @@
+{
+  "cinc": "CACMLS@CACMLS",
+  "lastUpdate": "2023-05-11T00:55:29Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "US",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "CACMLS"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "CACMLS"
+    }
+  ]
+}

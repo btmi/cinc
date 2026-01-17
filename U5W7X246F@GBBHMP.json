@@ -1,0 +1,18 @@
+{
+  "cinc": "U5W7X246F@GBBHMP",
+  "lastUpdate": "2024-05-20T14:21:08Z",
+  "rules": [
+    {
+      "alpha2": "CA",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USBHMP"
+    }
+  ]
+}

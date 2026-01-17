@@ -1,0 +1,958 @@
+{
+  "cinc": "PADCLG8W3@DEFNZL",
+  "lastUpdate": "2025-08-07T23:51:38Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "DEFNZL"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "DEFNZL"
+    }
+  ]
+}

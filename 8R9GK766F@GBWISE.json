@@ -1,0 +1,78 @@
+{
+  "cinc": "8R9GK766F@GBWISE",
+  "lastUpdate": "2023-12-19T07:25:16Z",
+  "rules": [
+    {
+      "alpha2": "AU",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "GBWISE"
+    }
+  ]
+}

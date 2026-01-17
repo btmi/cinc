@@ -1,0 +1,958 @@
+{
+  "cinc": "GBBFLO@GBBFLO",
+  "lastUpdate": "2025-06-07T00:39:39Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "US",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "GBBFLO"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "GBBFLO"
+    }
+  ]
+}

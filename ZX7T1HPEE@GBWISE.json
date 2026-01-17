@@ -1,0 +1,258 @@
+{
+  "cinc": "ZX7T1HPEE@GBWISE",
+  "lastUpdate": "2025-07-20T00:59:46Z",
+  "rules": [
+    {
+      "alpha2": "AG",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "GBWISE"
+    }
+  ]
+}

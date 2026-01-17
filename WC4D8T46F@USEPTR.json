@@ -1,0 +1,74 @@
+{
+  "cinc": "WC4D8T46F@USEPTR",
+  "lastUpdate": "2025-08-16T00:15:01Z",
+  "rules": [
+    {
+      "alpha2": "AR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USWISE"
+    }
+  ]
+}

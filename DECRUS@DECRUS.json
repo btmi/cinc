@@ -1,0 +1,958 @@
+{
+  "cinc": "DECRUS@DECRUS",
+  "lastUpdate": "2023-11-30T05:36:47Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "US",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "DECRUS"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "DECRUS"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "cinc": "DYT6S756F@DESCHT",
+  "lastUpdate": "2023-12-19T07:24:55Z",
+  "rules": [
+    {
+      "alpha2": "AL",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "CZBRNP"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "GR_MFT"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "HRZAMP"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "SIEDSS"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "CZBRNP"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "DESCHT"
+    }
+  ]
+}

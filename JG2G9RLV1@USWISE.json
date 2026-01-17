@@ -1,0 +1,214 @@
+{
+  "cinc": "JG2G9RLV1@USWISE",
+  "lastUpdate": "2024-03-11T04:51:13Z",
+  "rules": [
+    {
+      "alpha2": "AG",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USWISE"
+    }
+  ]
+}

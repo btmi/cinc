@@ -1,0 +1,50 @@
+{
+  "cinc": "SP1QG946F@AT_UED",
+  "lastUpdate": "2025-03-05T09:12:05Z",
+  "rules": [
+    {
+      "alpha2": "AT",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "HUHZUK"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "AT_UED"
+    }
+  ]
+}

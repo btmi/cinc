@@ -1,0 +1,958 @@
+{
+  "cinc": "GB_OUP@GB_OUP",
+  "lastUpdate": "2023-05-11T00:56:07Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "US",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "GB_OUP"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "GB_OUP"
+    }
+  ]
+}

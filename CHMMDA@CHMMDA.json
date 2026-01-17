@@ -1,0 +1,958 @@
+{
+  "cinc": "CHMMDA@CHMMDA",
+  "lastUpdate": "2023-05-11T00:58:12Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "US",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "CHMMDA"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "CHMMDA"
+    }
+  ]
+}

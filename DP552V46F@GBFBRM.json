@@ -1,0 +1,66 @@
+{
+  "cinc": "DP552V46F@GBFBRM",
+  "lastUpdate": "2024-02-29T15:29:46Z",
+  "rules": [
+    {
+      "alpha2": "AI",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "GBFBRM"
+    }
+  ]
+}

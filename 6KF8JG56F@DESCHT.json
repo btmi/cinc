@@ -1,0 +1,82 @@
+{
+  "cinc": "6KF8JG56F@DESCHT",
+  "lastUpdate": "2023-12-19T07:24:53Z",
+  "rules": [
+    {
+      "alpha2": "AM",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "GR_MFT"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "ITSNZO"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "ITSNZO"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "DEHIRE"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "DESCHT"
+    }
+  ]
+}

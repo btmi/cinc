@@ -1,0 +1,42 @@
+{
+  "cinc": "K35MT856F@DESCHT",
+  "lastUpdate": "2024-01-07T05:26:31Z",
+  "rules": [
+    {
+      "alpha2": "AT",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GB_MDS"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "GB_MDS"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "GR_MFT"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "GB_MDS"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "GB_MDS"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "GB_MDS"
+    }
+  ]
+}

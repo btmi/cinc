@@ -1,0 +1,958 @@
+{
+  "cinc": "BREABM@BREABM",
+  "lastUpdate": "2025-08-08T00:20:26Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "US",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "BREABM"
+    }
+  ]
+}

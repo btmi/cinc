@@ -1,0 +1,30 @@
+{
+  "cinc": "SHJ2LPLV1@USWISE",
+  "lastUpdate": "2024-03-11T04:50:15Z",
+  "rules": [
+    {
+      "alpha2": "BR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USWISE"
+    }
+  ]
+}

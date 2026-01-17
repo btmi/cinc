@@ -1,0 +1,958 @@
+{
+  "cinc": "S485JL56F@FIFENG",
+  "lastUpdate": "2025-09-18T06:57:05Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "GBBHMP"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "GBBHMP"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "GBBHMP"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GBBHMP"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "HUHZUK"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "GBBHMP"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "ITZBNI"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "JPSCHT"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "KR_KMS"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "GBBHMP"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "FIFENG"
+    }
+  ]
+}

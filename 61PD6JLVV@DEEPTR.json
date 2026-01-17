@@ -1,0 +1,958 @@
+{
+  "cinc": "61PD6JLVV@DEEPTR",
+  "lastUpdate": "2025-02-18T09:44:29Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "ESTRSK"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "FRBOIS"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "ESTRSK"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "FRBOIS"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "JPZENN"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "KREDKR"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "FRBOIS"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "ESTRSK"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "DEEPTR"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "DEEPTR"
+    }
+  ]
+}

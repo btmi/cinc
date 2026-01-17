@@ -1,0 +1,958 @@
+{
+  "cinc": "65EKL356F@NZPROM",
+  "lastUpdate": "2025-05-25T22:32:19Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USTPSR"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "NZPROM"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "NZPROM"
+    }
+  ]
+}

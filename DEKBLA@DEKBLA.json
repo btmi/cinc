@@ -1,0 +1,958 @@
+{
+  "cinc": "DEKBLA@DEKBLA",
+  "lastUpdate": "2023-05-11T00:57:28Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "US",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "DEKBLA"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "DEKBLA"
+    }
+  ]
+}

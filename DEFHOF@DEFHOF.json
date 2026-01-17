@@ -1,0 +1,958 @@
+{
+  "cinc": "DEFHOF@DEFHOF",
+  "lastUpdate": "2023-05-11T00:56:35Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "US",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "DEFHOF"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "DEFHOF"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "cinc": "7VC66266F@GBWISE",
+  "lastUpdate": "2025-06-21T01:08:00Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "DEWISE"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "FRBOIS"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "DEWISE"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DEWISE"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "FRBOIS"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "JPZENN"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "KREDKR"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "FRBOIS"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "FRBOIS"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "NLALBV"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "PTINTM"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "GBWISE"
+    }
+  ]
+}

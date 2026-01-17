@@ -1,0 +1,958 @@
+{
+  "cinc": "PL_PWM@PL_PWM",
+  "lastUpdate": "2023-12-06T07:31:16Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "US",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "PL_PWM"
+    }
+  ]
+}

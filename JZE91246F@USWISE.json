@@ -1,0 +1,18 @@
+{
+  "cinc": "JZE91246F@USWISE",
+  "lastUpdate": "2024-06-26T23:46:11Z",
+  "rules": [
+    {
+      "alpha2": "CA",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USWISE"
+    }
+  ]
+}

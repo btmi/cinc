@@ -1,0 +1,22 @@
+{
+  "cinc": "QBM4ZK46F@DKWISE",
+  "lastUpdate": "2025-07-25T00:28:41Z",
+  "rules": [
+    {
+      "alpha2": "DK",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "NOMFLG"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "DKWISE"
+    }
+  ]
+}

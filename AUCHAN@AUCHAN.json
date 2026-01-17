@@ -1,0 +1,958 @@
+{
+  "cinc": "AUCHAN@AUCHAN",
+  "lastUpdate": "2023-12-06T06:46:25Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "US",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "AUCHAN"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "AUCHAN"
+    }
+  ]
+}

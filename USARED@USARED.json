@@ -1,0 +1,958 @@
+{
+  "cinc": "USARED@USARED",
+  "lastUpdate": "2023-05-11T00:57:23Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "USARED"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "USARED"
+    }
+  ]
+}

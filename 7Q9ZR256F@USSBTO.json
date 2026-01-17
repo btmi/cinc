@@ -1,0 +1,270 @@
+{
+  "cinc": "7Q9ZR256F@USSBTO",
+  "lastUpdate": "2025-12-12T20:41:25Z",
+  "rules": [
+    {
+      "alpha2": "AG",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "GBFBRM"
+    }
+  ]
+}

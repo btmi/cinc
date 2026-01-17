@@ -1,0 +1,78 @@
+{
+  "cinc": "VJ3Z8Y0R3@AUWISE",
+  "lastUpdate": "2025-03-20T05:07:08Z",
+  "rules": [
+    {
+      "alpha2": "AU",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "KREDKR"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "AUORGN"
+    }
+  ]
+}

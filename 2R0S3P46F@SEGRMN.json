@@ -1,0 +1,958 @@
+{
+  "cinc": "2R0S3P46F@SEGRMN",
+  "lastUpdate": "2025-02-19T22:07:25Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "DEBKHT"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "CNPMPH"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DEBKHT"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "HUHZUK"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "AUCLRM"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "JPSCHT"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "DEBKHT"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "US",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "DEPEER"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "SEGRMN"
+    }
+  ]
+}

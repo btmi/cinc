@@ -2,7 +2,7 @@
 # Connect in Copyright (CinC)
 This is the public **CinC** repository maintained by publishers subscribed to the **Zinfonia Connect** service of **Zinfonia Holdings Pty Ltd**.
 
-The content of the [cinc.json](https://cinc.zinfonia.com/cinc.json) file provides detail of the global distribution rules used by publishers to redirect any content to the appropriate representative sorted by Country (based on the ISO 3166-1 alpha-2 standard).
+The content of the [cinc.json](https://cinc.zinfonia.com/cinc.json) file provides then names of files that contain the details of the global distribution rules used by publishers to redirect any content to the appropriate representative represented by a 6-Character Authority designation sorted by Country (based on the ISO 3166-1 alpha-2 standard).
 
 Subscribed publishers can make changes to this information in the [Connect in Copyright](https://www.incopyright.com/cinc) section of the In© portal.
 

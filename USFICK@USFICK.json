@@ -1,0 +1,958 @@
+{
+  "cinc": "USFICK@USFICK",
+  "lastUpdate": "2025-11-15T00:30:42Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "USFICK"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "USFICK"
+    }
+  ]
+}

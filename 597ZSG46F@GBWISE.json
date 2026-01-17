@@ -1,0 +1,34 @@
+{
+  "cinc": "597ZSG46F@GBWISE",
+  "lastUpdate": "2025-07-10T02:18:35Z",
+  "rules": [
+    {
+      "alpha2": "AU",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "DKWISE"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "DKWISE"
+    }
+  ]
+}

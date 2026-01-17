@@ -1,0 +1,142 @@
+{
+  "cinc": "7SLUZ946F@PL_PWM",
+  "lastUpdate": "2023-12-19T06:40:29Z",
+  "rules": [
+    {
+      "alpha2": "AL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "CZBRNP"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "PL_PWM"
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "cinc": "80Y14PFNX@USLTTG",
+  "lastUpdate": "2025-12-13T16:01:53Z",
+  "rules": [
+    {
+      "alpha2": "AE",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "USLTTG"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "USLTTG"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "cinc": "JUXDGENEE@USSBTO",
+  "lastUpdate": "2023-12-19T07:25:42Z",
+  "rules": [
+    {
+      "alpha2": "AG",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USSBTO"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USSBTO"
+    }
+  ]
+}

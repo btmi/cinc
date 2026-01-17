@@ -1,0 +1,958 @@
+{
+  "cinc": "CA_CMC@CA_CMC",
+  "lastUpdate": "2023-05-11T00:56:09Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "US",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "CA_CMC"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "CA_CMC"
+    }
+  ]
+}

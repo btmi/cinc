@@ -1,0 +1,114 @@
+{
+  "cinc": "8NTK0S6KQ@AUBTMI",
+  "lastUpdate": "2023-12-19T07:24:20Z",
+  "rules": [
+    {
+      "alpha2": "AS",
+      "authID": "USEAMC"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "AUBTMI"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "AUBTMI"
+    }
+  ]
+}

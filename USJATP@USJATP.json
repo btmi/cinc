@@ -1,0 +1,958 @@
+{
+  "cinc": "USJATP@USJATP",
+  "lastUpdate": "2024-07-19T07:36:14Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "USJATP"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "USJATP"
+    }
+  ]
+}

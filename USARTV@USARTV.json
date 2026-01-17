@@ -1,0 +1,958 @@
+{
+  "cinc": "USARTV@USARTV",
+  "lastUpdate": "2025-03-25T23:44:35Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "USARTV"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "USARTV"
+    }
+  ]
+}

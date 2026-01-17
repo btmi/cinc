@@ -1,0 +1,26 @@
+{
+  "cinc": "PAXQ5556F@SEGRMN",
+  "lastUpdate": "2023-12-19T06:40:29Z",
+  "rules": [
+    {
+      "alpha2": "DK",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "SEGRMN"
+    }
+  ]
+}

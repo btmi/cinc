@@ -1,0 +1,50 @@
+{
+  "cinc": "5PMYEW56F@GBBHMP",
+  "lastUpdate": "2024-05-20T14:25:13Z",
+  "rules": [
+    {
+      "alpha2": "CH",
+      "authID": "DEHSIK"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "DEHSIK"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "ESMNGE"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "DEHSIK"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "DEHSIK"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "DEHSIK"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "NLALBV"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "DEHSIK"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "PTINTM"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "DEHSIK"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "DEHSIK"
+    }
+  ]
+}

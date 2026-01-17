@@ -1,0 +1,274 @@
+{
+  "cinc": "J63HA456F@GBBHMP",
+  "lastUpdate": "2024-01-07T05:26:44Z",
+  "rules": [
+    {
+      "alpha2": "AG",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "US",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "US_EAM"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "US_EAM"
+    }
+  ]
+}

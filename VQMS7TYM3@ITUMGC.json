@@ -1,0 +1,954 @@
+{
+  "cinc": "VQMS7TYM3@ITUMGC",
+  "lastUpdate": "2025-08-18T22:53:48Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "ESMNGE"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "NLALBV"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "ARMELS"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "AT_UED"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "GBUMGC"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "FRUMGC"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "ARMELS"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "BREABM"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "DEUMGC"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "ARMELS"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "CNPMPH"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "ARMELS"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "DEUMGC"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DEUMGC"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "ARMELS"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "ESMNGE"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "FIFENG"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "FRUMGC"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "GBUMGC"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "ESMNGE"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "GR_MFT"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "CNPMPH"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "GBUMGC"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "IL_IMA"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "GBUMGC"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "JPYMHA"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "KR_KMS"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "FRUMGC"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "CNPMPH"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "NLALBV"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "GBUMGC"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "ARMELS"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "IL_IMA"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "PTINTM"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "FRUMGC"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DEUMGC"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "SEGRMN"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "IL_IMA"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "CNPMPH"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "ARMELS"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "ARMELS"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "HU_EMB"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "GBUMGC"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "ITUMGC"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "ITUMGC"
+    }
+  ]
+}

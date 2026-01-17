@@ -1,0 +1,958 @@
+{
+  "cinc": "FRNWZK@FRNWZK",
+  "lastUpdate": "2023-11-28T04:13:03Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "US",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "FRNWZK"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "FRNWZK"
+    }
+  ]
+}

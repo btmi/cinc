@@ -1,0 +1,26 @@
+{
+  "cinc": "U9ABMRP1E@USKSRP",
+  "lastUpdate": "2025-08-30T00:57:02Z",
+  "rules": [
+    {
+      "alpha2": "CA",
+      "authID": "USKSRP"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "USKSRP"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "USKSRP"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USKSRP"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "USKSRP"
+    }
+  ]
+}

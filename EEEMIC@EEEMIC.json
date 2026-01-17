@@ -1,0 +1,958 @@
+{
+  "cinc": "EEEMIC@EEEMIC",
+  "lastUpdate": "2025-09-09T09:42:28Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "US",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "EEEMIC"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "EEEMIC"
+    }
+  ]
+}

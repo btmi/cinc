@@ -1,0 +1,18 @@
+{
+  "cinc": "5RM09Z46F@GBBHMP",
+  "lastUpdate": "2024-05-20T15:35:52Z",
+  "rules": [
+    {
+      "alpha2": "CA",
+      "authID": "USCNCD"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USCNCD"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USCNCD"
+    }
+  ]
+}

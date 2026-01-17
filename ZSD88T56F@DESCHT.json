@@ -1,0 +1,42 @@
+{
+  "cinc": "ZSD88T56F@DESCHT",
+  "lastUpdate": "2024-05-25T07:10:21Z",
+  "rules": [
+    {
+      "alpha2": "AT",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "DESCHT"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "DESCHT"
+    }
+  ]
+}

@@ -1,0 +1,958 @@
+{
+  "cinc": "CNZETA@CNZETA",
+  "lastUpdate": "2024-05-22T02:22:23Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "US",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "CNZETA"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "CNZETA"
+    }
+  ]
+}

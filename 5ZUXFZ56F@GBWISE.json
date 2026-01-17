@@ -1,0 +1,166 @@
+{
+  "cinc": "5ZUXFZ56F@GBWISE",
+  "lastUpdate": "2025-03-21T00:33:45Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "KREDKR"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "ARBRRY"
+    }
+  ]
+}

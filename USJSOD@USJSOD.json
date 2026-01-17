@@ -1,0 +1,958 @@
+{
+  "cinc": "USJSOD@USJSOD",
+  "lastUpdate": "2024-05-16T01:47:58Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "USJSOD"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "USJSOD"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "cinc": "YG211M46F@PL_PWM",
+  "lastUpdate": "2023-05-11T00:56:46Z",
+  "rules": [
+    {
+      "alpha2": "PL",
+      "authID": "PL_PWM"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "AUZINF"
+    }
+  ]
+}
