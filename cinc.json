@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-21T02:40:17Z",
+  "lastUpdate": "2026-01-26T23:07:00Z",
   "cinc": [
     "00ZWBB56F@GBWISE.json",
     "03CQN546F@GBBHMP.json",
@@ -2070,6 +2070,10 @@
     {
       "zid": 102495,
       "cinc": "C5WFKPKNX@USLTTG"
+    },
+    {
+      "zid": 102496,
+      "cinc": "BDP5MB66F@DEALKB"
     }
   ]
 }

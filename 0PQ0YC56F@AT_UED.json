@@ -1,6 +1,6 @@
 {
   "cinc": "0PQ0YC56F@AT_UED",
-  "lastUpdate": "2025-06-23T23:00:05Z",
+  "lastUpdate": "2026-01-26T22:59:21Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -136,7 +136,7 @@
     },
     {
       "alpha2": "CA",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CC",
@@ -600,7 +600,7 @@
     },
     {
       "alpha2": "MX",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "MY",

@@ -1,6 +1,6 @@
 {
   "cinc": "04SEXB56F@AT_UED",
-  "lastUpdate": "2025-06-23T22:59:46Z",
+  "lastUpdate": "2026-01-26T23:00:15Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -136,7 +136,7 @@
     },
     {
       "alpha2": "CA",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CC",
@@ -600,7 +600,7 @@
     },
     {
       "alpha2": "MX",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "MY",
@@ -700,7 +700,7 @@
     },
     {
       "alpha2": "PR",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "PS",
@@ -884,7 +884,7 @@
     },
     {
       "alpha2": "US",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "UY",

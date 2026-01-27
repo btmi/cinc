@@ -1,6 +1,6 @@
 {
   "cinc": "4RYA3BPEE@GBFBRM",
-  "lastUpdate": "2025-03-28T14:18:59Z",
+  "lastUpdate": "2026-01-26T23:06:52Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -16,7 +16,7 @@
     },
     {
       "alpha2": "AG",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "AI",
@@ -44,7 +44,7 @@
     },
     {
       "alpha2": "AS",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "AT",
@@ -68,7 +68,7 @@
     },
     {
       "alpha2": "BB",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "BD",
@@ -108,7 +108,7 @@
     },
     {
       "alpha2": "BO",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "BR",
@@ -116,7 +116,7 @@
     },
     {
       "alpha2": "BS",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "BT",
@@ -132,11 +132,11 @@
     },
     {
       "alpha2": "BZ",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CA",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CC",
@@ -180,15 +180,15 @@
     },
     {
       "alpha2": "CO",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CR",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CU",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CV",
@@ -220,11 +220,11 @@
     },
     {
       "alpha2": "DM",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "DO",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "DZ",
@@ -232,7 +232,7 @@
     },
     {
       "alpha2": "EC",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "EE",
@@ -292,7 +292,7 @@
     },
     {
       "alpha2": "GD",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "GE",
@@ -340,11 +340,11 @@
     },
     {
       "alpha2": "GT",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "GU",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "GW",
@@ -352,7 +352,7 @@
     },
     {
       "alpha2": "GY",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "HK",
@@ -360,7 +360,7 @@
     },
     {
       "alpha2": "HN",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "HR",
@@ -368,7 +368,7 @@
     },
     {
       "alpha2": "HT",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "HU",
@@ -416,7 +416,7 @@
     },
     {
       "alpha2": "JM",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "JO",
@@ -448,7 +448,7 @@
     },
     {
       "alpha2": "KN",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "KP",
@@ -480,7 +480,7 @@
     },
     {
       "alpha2": "LC",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "LI",
@@ -564,7 +564,7 @@
     },
     {
       "alpha2": "MP",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "MQ",
@@ -596,7 +596,7 @@
     },
     {
       "alpha2": "MX",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "MY",
@@ -628,7 +628,7 @@
     },
     {
       "alpha2": "NI",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "NL",
@@ -660,11 +660,11 @@
     },
     {
       "alpha2": "PA",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "PE",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "PF",
@@ -696,7 +696,7 @@
     },
     {
       "alpha2": "PR",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "PS",
@@ -712,7 +712,7 @@
     },
     {
       "alpha2": "PY",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "QA",
@@ -788,7 +788,7 @@
     },
     {
       "alpha2": "SR",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "ST",
@@ -796,7 +796,7 @@
     },
     {
       "alpha2": "SV",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "SY",
@@ -852,7 +852,7 @@
     },
     {
       "alpha2": "TT",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "TV",
@@ -876,7 +876,7 @@
     },
     {
       "alpha2": "US",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "UY",
@@ -892,11 +892,11 @@
     },
     {
       "alpha2": "VC",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "VE",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "VG",
@@ -904,7 +904,7 @@
     },
     {
       "alpha2": "VI",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "VN",

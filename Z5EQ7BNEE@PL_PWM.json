@@ -1,6 +1,6 @@
 {
   "cinc": "Z5EQ7BNEE@PL_PWM",
-  "lastUpdate": "2025-07-07T09:32:34Z",
+  "lastUpdate": "2026-01-26T23:04:04Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -136,7 +136,7 @@
     },
     {
       "alpha2": "CA",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CC",
@@ -596,7 +596,7 @@
     },
     {
       "alpha2": "MX",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "MY",
@@ -696,7 +696,7 @@
     },
     {
       "alpha2": "PR",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "PS",
@@ -880,7 +880,7 @@
     },
     {
       "alpha2": "US",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "UY",
@@ -908,7 +908,7 @@
     },
     {
       "alpha2": "VI",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "VN",

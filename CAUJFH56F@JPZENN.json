@@ -1,6 +1,6 @@
 {
   "cinc": "CAUJFH56F@JPZENN",
-  "lastUpdate": "2023-12-19T06:21:39Z",
+  "lastUpdate": "2026-01-26T23:04:50Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -100,7 +100,7 @@
     },
     {
       "alpha2": "BM",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "BN",
@@ -136,7 +136,7 @@
     },
     {
       "alpha2": "CA",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CC",
@@ -320,7 +320,7 @@
     },
     {
       "alpha2": "GL",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "GM",
@@ -600,7 +600,7 @@
     },
     {
       "alpha2": "MX",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "MY",
@@ -692,7 +692,7 @@
     },
     {
       "alpha2": "PM",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "PN",
@@ -884,7 +884,7 @@
     },
     {
       "alpha2": "US",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "UY",

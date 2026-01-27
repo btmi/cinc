@@ -1,6 +1,6 @@
 {
   "cinc": "4PRPNU46F@GBFBRM",
-  "lastUpdate": "2025-02-19T10:47:47Z",
+  "lastUpdate": "2026-01-26T23:06:35Z",
   "rules": [
     {
       "alpha2": "AI",
@@ -16,7 +16,7 @@
     },
     {
       "alpha2": "CA",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CC",
@@ -68,7 +68,7 @@
     },
     {
       "alpha2": "JM",
-      "authID": "US_EAM"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "KY",
