@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-28T05:47:25Z",
+  "lastUpdate": "2026-01-30T22:40:02Z",
   "cinc": [
     "00ZWBB56F@GBWISE.json",
     "03CQN546F@GBBHMP.json",
@@ -120,6 +120,7 @@
     "AV21UL56F@USWISE.json",
     "AYLDF846F@FIFENG.json",
     "AYUJUB46F@NOMFLG.json",
+    "B0WA0FL0M@ITUMGC.json",
     "BDP5MB66F@DEALKB.json",
     "BL6MN466F@GBWISE.json",
     "BREABM@BREABM.json",
@@ -2074,6 +2075,10 @@
     {
       "zid": 102496,
       "cinc": "BDP5MB66F@DEALKB"
+    },
+    {
+      "zid": 102497,
+      "cinc": "B0WA0FL0M@ITUMGC"
     }
   ]
 }
