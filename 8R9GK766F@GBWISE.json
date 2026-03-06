@@ -1,6 +1,6 @@
 {
   "cinc": "8R9GK766F@GBWISE",
-  "lastUpdate": "2023-12-19T07:25:16Z",
+  "lastUpdate": "2026-03-05T05:26:28Z",
   "rules": [
     {
       "alpha2": "AU",
@@ -11,14 +11,6 @@
       "authID": "USWISE"
     },
     {
-      "alpha2": "DK",
-      "authID": "DKWISE"
-    },
-    {
-      "alpha2": "FI",
-      "authID": "DKWISE"
-    },
-    {
       "alpha2": "GB",
       "authID": "GBWISE"
     },
@@ -27,19 +19,15 @@
       "authID": "GBWISE"
     },
     {
-      "alpha2": "HK",
-      "authID": "AUORGN"
+      "alpha2": "GI",
+      "authID": "GBWISE"
     },
     {
       "alpha2": "IE",
       "authID": "GBWISE"
     },
     {
-      "alpha2": "IL",
-      "authID": "GBWISE"
-    },
-    {
-      "alpha2": "IM",
+      "alpha2": "IN",
       "authID": "GBWISE"
     },
     {
@@ -47,12 +35,8 @@
       "authID": "GBWISE"
     },
     {
-      "alpha2": "MT",
+      "alpha2": "MY",
       "authID": "GBWISE"
-    },
-    {
-      "alpha2": "NO",
-      "authID": "DKWISE"
     },
     {
       "alpha2": "NZ",
@@ -63,12 +47,8 @@
       "authID": "AUORGN"
     },
     {
-      "alpha2": "UY",
-      "authID": "ARBRRY"
-    },
-    {
-      "alpha2": "VE",
-      "authID": "ARBRRY"
+      "alpha2": "US",
+      "authID": "USWISE"
     },
     {
       "alpha2": "ZA",
