@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-11T00:43:44Z",
+  "lastUpdate": "2026-03-16T14:11:27Z",
   "cinc": [
     "00ZWBB56F@GBWISE.json",
     "03CQN546F@GBBHMP.json",
@@ -25,7 +25,6 @@
     "2EFN9X4EE@AUZINF.json",
     "2EQDZY46F@GBBHMP.json",
     "2G3XCRNEE@ITUMGC.json",
-    "2R0S3P46F@SEGRMN.json",
     "2TWJX9PEE@LVBLTC.json",
     "2VNW435EE@USWISE.json",
     "2W3CN6NML@DESCHT.json",
@@ -44,7 +43,6 @@
     "4225RDPEE@GBBHMP.json",
     "42CL5J56F@GBFBRM.json",
     "42PUM646F@AT_UED.json",
-    "4609W456F@SEGRMN.json",
     "48DEW766F@GB_OUP.json",
     "4BL7PWMML@DESCHT.json",
     "4BXFEQLVV@USEPTR.json",
@@ -317,7 +315,6 @@
     "SHJ2LPLV1@USWISE.json",
     "SHJ2LPLVV@USEPTR.json",
     "SKZVQ4PEE@DEEPTR.json",
-    "SMXXN556F@SEGRMN.json",
     "SN6THQ56F@DESCHT.json",
     "SN8GQ4NEE@GBFBRM.json",
     "SP1QG946F@AT_UED.json",
@@ -328,7 +325,6 @@
     "TN2W8K6CH@USLTTG.json",
     "TPB3PTLVV@GBFBRM.json",
     "TPRSEY46F@GBBHMP.json",
-    "TTGP8GPEE@SEGRMN.json",
     "TWM606Q8W@AT_UED.json",
     "TWTH8356F@USSBTO.json",
     "TXPRYF56F@DEBKHT.json",
@@ -398,7 +394,6 @@
     "Y9YJJE46F@GBWISE.json",
     "YB16JT56F@DESCHT.json",
     "YCZUMU56F@DESCHT.json",
-    "YD41J0R1P@SEGRMN.json",
     "YFXU2UNEE@GBBHMP.json",
     "YG211M46F@PL_PWM.json",
     "YNZ7Z9NML@DESCHT.json",
@@ -462,7 +457,6 @@
     "DEHIRE.json",
     "DEHSIK.json",
     "DEKBLA.json",
-    "DEPEER.json",
     "DESCHT.json",
     "DEUMGC.json",
     "DEWISE.json",
@@ -827,10 +821,6 @@
     {
       "zid": 100910,
       "cinc": "163MB3Q6F@USTPSR"
-    },
-    {
-      "zid": 100922,
-      "cinc": "2R0S3P46F@SEGRMN"
     },
     {
       "zid": 100974,
@@ -1493,10 +1483,6 @@
       "cinc": "11AQ1FPEE@SEGRMN"
     },
     {
-      "zid": 102296,
-      "cinc": "TTGP8GPEE@SEGRMN"
-    },
-    {
       "zid": 102297,
       "cinc": "ZX7T1HPEE@GBWISE"
     },
@@ -1929,10 +1915,6 @@
       "cinc": "42CL5J56F@GBFBRM"
     },
     {
-      "zid": 102459,
-      "cinc": "4609W456F@SEGRMN"
-    },
-    {
       "zid": 102460,
       "cinc": "3AU0H866F@ITUMGC"
     },
@@ -1991,10 +1973,6 @@
     {
       "zid": 102475,
       "cinc": "TKMVB2Q6F@USTPSR"
-    },
-    {
-      "zid": 102476,
-      "cinc": "YD41J0R1P@SEGRMN"
     },
     {
       "zid": 102477,
