@@ -1,0 +1,958 @@
+{
+  "cinc": "USMTAM@USMTAM",
+  "lastUpdate": "2026-04-01T09:16:18Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "USMTAM"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "USMTAM"
+    }
+  ]
+}
