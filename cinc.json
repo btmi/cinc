@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-15T13:52:17Z",
+  "lastUpdate": "2026-04-17T10:06:37Z",
   "cinc": [
     "00ZWBB56F@GBWISE.json",
     "03CQN546F@GBBHMP.json",
@@ -302,6 +302,7 @@
     "RAYQB5KNX@USLTTG.json",
     "RBBC1S56F@DESCHT.json",
     "REJEA8NML@DESCHT.json",
+    "RFGHZ8L0Q@GBWISE.json",
     "RHH6F5L6F@ESRDGO.json",
     "RM9T9VEW6@GBWISE.json",
     "RWZZE966F@ITUMGC.json",
@@ -2072,6 +2073,10 @@
     {
       "zid": 102503,
       "cinc": "USMTAM@USMTAM"
+    },
+    {
+      "zid": 102504,
+      "cinc": "RFGHZ8L0Q@GBWISE"
     }
   ]
 }

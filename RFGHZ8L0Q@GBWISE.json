@@ -1,6 +1,6 @@
 {
-  "cinc": "6UHXXX56F@GBWISE",
-  "lastUpdate": "2026-04-17T10:02:29Z",
+  "cinc": "RFGHZ8L0Q@GBWISE",
+  "lastUpdate": "2026-04-17T10:06:37Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -881,6 +881,10 @@
     {
       "alpha2": "UG",
       "authID": "GBWISE"
+    },
+    {
+      "alpha2": "US",
+      "authID": "USWISE"
     },
     {
       "alpha2": "UY",
