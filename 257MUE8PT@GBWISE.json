@@ -1,38 +1,42 @@
 {
-  "cinc": "31M2B056F@GBBHMP",
-  "lastUpdate": "2026-04-24T07:46:07Z",
+  "cinc": "257MUE8PT@GBWISE",
+  "lastUpdate": "2026-04-24T23:56:01Z",
   "rules": [
     {
       "alpha2": "AD",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "AE",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "AF",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "AG",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "AI",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "AL",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "GBWISE"
     },
     {
       "alpha2": "AN",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "AO",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "AR",
@@ -40,67 +44,71 @@
     },
     {
       "alpha2": "AS",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "AT",
-      "authID": "DEHSIK"
+      "authID": "DEWISE"
     },
     {
       "alpha2": "AU",
-      "authID": "AUDVRA"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "AW",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "GBWISE"
     },
     {
       "alpha2": "BA",
-      "authID": "HRZAMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "BB",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "BD",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "BE",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "BF",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "BG",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "BH",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "BI",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "BJ",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "BM",
-      "authID": "DEHSIK"
+      "authID": "USWISE"
     },
     {
       "alpha2": "BN",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "BO",
-      "authID": "DEHSIK"
+      "authID": "ARBRRY"
     },
     {
       "alpha2": "BR",
@@ -108,19 +116,23 @@
     },
     {
       "alpha2": "BS",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "BT",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "BW",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "GBWISE"
     },
     {
       "alpha2": "BZ",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "CA",
@@ -128,31 +140,31 @@
     },
     {
       "alpha2": "CC",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "CD",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "CF",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "CG",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "CH",
-      "authID": "DEHSIK"
+      "authID": "DEWISE"
     },
     {
       "alpha2": "CI",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "CK",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "CL",
@@ -160,51 +172,51 @@
     },
     {
       "alpha2": "CM",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "CN",
-      "authID": "CNEAPC"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "CO",
-      "authID": "DEHSIK"
+      "authID": "ARBRRY"
     },
     {
       "alpha2": "CR",
-      "authID": "DEHSIK"
+      "authID": "ARBRRY"
     },
     {
       "alpha2": "CU",
-      "authID": "DEHSIK"
+      "authID": "USWISE"
     },
     {
       "alpha2": "CV",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "CW",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "CX",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "CY",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "CZ",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "DE",
-      "authID": "DEHSIK"
+      "authID": "DEWISE"
     },
     {
       "alpha2": "DJ",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "DK",
@@ -212,31 +224,35 @@
     },
     {
       "alpha2": "DM",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "DO",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "DZ",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "EC",
-      "authID": "DEHSIK"
+      "authID": "ARBRRY"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "DKWISE"
     },
     {
       "alpha2": "EG",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "EH",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "ER",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "ES",
@@ -244,323 +260,343 @@
     },
     {
       "alpha2": "ET",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "FI",
-      "authID": "FIFENG"
+      "authID": "DKWISE"
     },
     {
       "alpha2": "FJ",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "FK",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "FM",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "FO",
-      "authID": "GBBHMP"
+      "authID": "DKWISE"
     },
     {
       "alpha2": "FR",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "GA",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GB",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GD",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GE",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GF",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GG",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GH",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GI",
-      "authID": "GBBHMP"
+      "authID": "ESMNGE"
     },
     {
       "alpha2": "GL",
-      "authID": "DEHSIK"
+      "authID": "DKWISE"
     },
     {
       "alpha2": "GM",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GN",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GP",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GQ",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GR",
-      "authID": "GRSOPE"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GT",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GU",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GW",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "GY",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "HK",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "HN",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "HR",
-      "authID": "HRZAMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "HT",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "HU",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "ID",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "IE",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "IL",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "IM",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "IN",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "IQ",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "IR",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "IS",
-      "authID": "GBBHMP"
+      "authID": "DKWISE"
     },
     {
       "alpha2": "IT",
-      "authID": "GBBHMP"
+      "authID": "ITUMGC"
     },
     {
       "alpha2": "JE",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "JM",
-      "authID": "DEHSIK"
+      "authID": "USWISE"
     },
     {
       "alpha2": "JO",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "JP",
-      "authID": "DEHSIK"
+      "authID": "JPZENN"
     },
     {
       "alpha2": "KE",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "GBWISE"
     },
     {
       "alpha2": "KH",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "KI",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "KM",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "KN",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "KP",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "KR",
-      "authID": "DEHSIK"
+      "authID": "KREDKR"
     },
     {
       "alpha2": "KW",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "KY",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "GBWISE"
     },
     {
       "alpha2": "LA",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "LB",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "LC",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "LI",
-      "authID": "GBBHMP"
+      "authID": "DEHSIK"
     },
     {
       "alpha2": "LK",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "LR",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "LS",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "DKWISE"
     },
     {
       "alpha2": "LU",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "DKWISE"
     },
     {
       "alpha2": "LY",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MA",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MC",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "GBWISE"
     },
     {
       "alpha2": "ME",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MF",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MG",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MH",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "MK",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "ML",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MM",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "MN",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "MO",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "MP",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MQ",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MR",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MS",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MT",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MU",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MV",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MW",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "MX",
@@ -568,35 +604,35 @@
     },
     {
       "alpha2": "MY",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "MZ",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "NA",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "NC",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "NE",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "NF",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "NG",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "NI",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "NL",
@@ -604,51 +640,51 @@
     },
     {
       "alpha2": "NO",
-      "authID": "GBBHMP"
+      "authID": "DKWISE"
     },
     {
       "alpha2": "NP",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "NR",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "NU",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "NZ",
-      "authID": "AUDVRA"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "OM",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "PA",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "PE",
-      "authID": "DEHSIK"
+      "authID": "ARBRRY"
     },
     {
       "alpha2": "PF",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "PG",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "PH",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "PK",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "PL",
@@ -656,19 +692,19 @@
     },
     {
       "alpha2": "PM",
-      "authID": "DEHSIK"
+      "authID": "USWISE"
     },
     {
       "alpha2": "PN",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "PR",
-      "authID": "DEHSIK"
+      "authID": "USWISE"
     },
     {
       "alpha2": "PS",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "PT",
@@ -676,163 +712,175 @@
     },
     {
       "alpha2": "PW",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "PY",
-      "authID": "DEHSIK"
+      "authID": "ARBRRY"
     },
     {
       "alpha2": "QA",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "RE",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "RO",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "RS",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "GBWISE"
     },
     {
       "alpha2": "RW",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SA",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SB",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "SC",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SD",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SE",
-      "authID": "SEGRMN"
+      "authID": "DKWISE"
     },
     {
       "alpha2": "SG",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "SH",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SI",
-      "authID": "HRZAMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SK",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SL",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SM",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SN",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SO",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SR",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "ST",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SV",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SY",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "SZ",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "TC",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "TD",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "TG",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "TH",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "GBWISE"
     },
     {
       "alpha2": "TK",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "TL",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "TM",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "TN",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "TO",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "TR",
-      "authID": "DEHSIK"
+      "authID": "IL_IMA"
     },
     {
       "alpha2": "TT",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "TV",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "TW",
-      "authID": "CNEAPC"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "TZ",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "GBWISE"
     },
     {
       "alpha2": "UG",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "US",
@@ -843,64 +891,68 @@
       "authID": "ARBRRY"
     },
     {
+      "alpha2": "UZ",
+      "authID": "GBWISE"
+    },
+    {
       "alpha2": "VA",
-      "authID": "GBBHMP"
+      "authID": "ITUMGC"
     },
     {
       "alpha2": "VC",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "VE",
-      "authID": "DEHSIK"
+      "authID": "USWISE"
     },
     {
       "alpha2": "VG",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "VI",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "VN",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "VU",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "WF",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "WS",
-      "authID": "DEHSIK"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "XK",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "YE",
-      "authID": "DEHSIK"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "YT",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "ZA",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "ZM",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     },
     {
       "alpha2": "ZW",
-      "authID": "GBBHMP"
+      "authID": "GBWISE"
     }
   ]
 }
