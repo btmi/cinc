@@ -1,6 +1,6 @@
 {
   "cinc": "4TBP2066F@GBWISE",
-  "lastUpdate": "2026-04-20T08:35:22Z",
+  "lastUpdate": "2026-04-26T10:26:09Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -272,7 +272,7 @@
     },
     {
       "alpha2": "FR",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "GA",
