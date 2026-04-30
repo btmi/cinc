@@ -1,6 +1,6 @@
 {
   "cinc": "31M2B056F@GBBHMP",
-  "lastUpdate": "2026-04-24T07:46:07Z",
+  "lastUpdate": "2026-04-29T13:08:26Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -8,27 +8,31 @@
     },
     {
       "alpha2": "AE",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "AF",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "AG",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "AI",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "AL",
       "authID": "GBBHMP"
     },
     {
+      "alpha2": "AM",
+      "authID": "GBBHMP"
+    },
+    {
       "alpha2": "AN",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "AO",
@@ -40,7 +44,7 @@
     },
     {
       "alpha2": "AS",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "AT",
@@ -48,11 +52,15 @@
     },
     {
       "alpha2": "AU",
-      "authID": "AUDVRA"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "AW",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "BA",
@@ -60,11 +68,11 @@
     },
     {
       "alpha2": "BB",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "BD",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "BE",
@@ -80,7 +88,7 @@
     },
     {
       "alpha2": "BH",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "BI",
@@ -92,15 +100,15 @@
     },
     {
       "alpha2": "BM",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "BN",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "BO",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "BR",
@@ -108,11 +116,11 @@
     },
     {
       "alpha2": "BS",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "BT",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "BW",
@@ -120,7 +128,7 @@
     },
     {
       "alpha2": "BZ",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CA",
@@ -128,7 +136,7 @@
     },
     {
       "alpha2": "CC",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "CD",
@@ -152,11 +160,11 @@
     },
     {
       "alpha2": "CK",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "CL",
-      "authID": "ARBRRY"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CM",
@@ -168,15 +176,15 @@
     },
     {
       "alpha2": "CO",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CR",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CU",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CV",
@@ -184,15 +192,15 @@
     },
     {
       "alpha2": "CW",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "CX",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "CY",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "CZ",
@@ -212,11 +220,11 @@
     },
     {
       "alpha2": "DM",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "DO",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "DZ",
@@ -224,7 +232,7 @@
     },
     {
       "alpha2": "EC",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "EG",
@@ -252,15 +260,15 @@
     },
     {
       "alpha2": "FJ",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "FK",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "FM",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "FO",
@@ -280,15 +288,15 @@
     },
     {
       "alpha2": "GD",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "GE",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "GF",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "GG",
@@ -304,7 +312,7 @@
     },
     {
       "alpha2": "GL",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "GM",
@@ -316,7 +324,7 @@
     },
     {
       "alpha2": "GP",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "GQ",
@@ -328,11 +336,11 @@
     },
     {
       "alpha2": "GT",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "GU",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "GW",
@@ -340,15 +348,15 @@
     },
     {
       "alpha2": "GY",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "HK",
-      "authID": "DEHSIK"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "HN",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "HR",
@@ -356,7 +364,7 @@
     },
     {
       "alpha2": "HT",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "HU",
@@ -364,7 +372,7 @@
     },
     {
       "alpha2": "ID",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "IE",
@@ -380,15 +388,15 @@
     },
     {
       "alpha2": "IN",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "IQ",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "IR",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "IS",
@@ -404,27 +412,31 @@
     },
     {
       "alpha2": "JM",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "JO",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "JP",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "KE",
       "authID": "GBBHMP"
     },
     {
+      "alpha2": "KG",
+      "authID": "GBBHMP"
+    },
+    {
       "alpha2": "KH",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "KI",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "KM",
@@ -432,35 +444,39 @@
     },
     {
       "alpha2": "KN",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "KP",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "KR",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "KW",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "KY",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "LA",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "LB",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "LC",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "LI",
@@ -468,7 +484,7 @@
     },
     {
       "alpha2": "LK",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "LR",
@@ -500,7 +516,7 @@
     },
     {
       "alpha2": "MF",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "MG",
@@ -508,7 +524,7 @@
     },
     {
       "alpha2": "MH",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "MK",
@@ -520,23 +536,23 @@
     },
     {
       "alpha2": "MM",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "MN",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "MO",
-      "authID": "DEHSIK"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "MP",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "MQ",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "MR",
@@ -544,7 +560,7 @@
     },
     {
       "alpha2": "MS",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "MT",
@@ -556,7 +572,7 @@
     },
     {
       "alpha2": "MV",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "MW",
@@ -568,7 +584,7 @@
     },
     {
       "alpha2": "MY",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "MZ",
@@ -580,7 +596,7 @@
     },
     {
       "alpha2": "NC",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "NE",
@@ -588,7 +604,7 @@
     },
     {
       "alpha2": "NF",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "NG",
@@ -596,7 +612,7 @@
     },
     {
       "alpha2": "NI",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "NL",
@@ -608,47 +624,47 @@
     },
     {
       "alpha2": "NP",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "NR",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "NU",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "NZ",
-      "authID": "AUDVRA"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "OM",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "PA",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "PE",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "PF",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "PG",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "PH",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "PK",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "PL",
@@ -656,19 +672,19 @@
     },
     {
       "alpha2": "PM",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "PN",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "PR",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "PS",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "PT",
@@ -676,15 +692,15 @@
     },
     {
       "alpha2": "PW",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "PY",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "QA",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "RE",
@@ -704,11 +720,11 @@
     },
     {
       "alpha2": "SA",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "SB",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "SC",
@@ -724,7 +740,7 @@
     },
     {
       "alpha2": "SG",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "SH",
@@ -756,7 +772,7 @@
     },
     {
       "alpha2": "SR",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "ST",
@@ -764,11 +780,11 @@
     },
     {
       "alpha2": "SV",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "SY",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "SZ",
@@ -776,7 +792,7 @@
     },
     {
       "alpha2": "TC",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "TD",
@@ -788,19 +804,23 @@
     },
     {
       "alpha2": "TH",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "TK",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "TL",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "TM",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "TN",
@@ -808,19 +828,19 @@
     },
     {
       "alpha2": "TO",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "TR",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "TT",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "TV",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "TW",
@@ -843,40 +863,44 @@
       "authID": "ARBRRY"
     },
     {
+      "alpha2": "UZ",
+      "authID": "GBBHMP"
+    },
+    {
       "alpha2": "VA",
       "authID": "GBBHMP"
     },
     {
       "alpha2": "VC",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "VE",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "VG",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "VI",
-      "authID": "DEHSIK"
+      "authID": "USBHMP"
     },
     {
       "alpha2": "VN",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "VU",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "WF",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "WS",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "XK",
@@ -884,7 +908,7 @@
     },
     {
       "alpha2": "YE",
-      "authID": "DEHSIK"
+      "authID": "GBBHMP"
     },
     {
       "alpha2": "YT",
