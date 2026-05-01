@@ -1,0 +1,958 @@
+{
+  "cinc": "DERSEL@DERSEL",
+  "lastUpdate": "2026-04-30T06:35:14Z",
+  "rules": [
+    {
+      "alpha2": "AD",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AF",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AL",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AO",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AS",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AT",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AW",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "AZ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BA",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BB",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BF",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BI",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BJ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BN",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BS",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BT",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BW",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BY",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CA",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CC",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CD",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CF",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CH",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CI",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CK",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CV",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CX",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CY",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "CZ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "DE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "DJ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "DK",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "DM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "EE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "EH",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "ER",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "ES",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "ET",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "FI",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "FJ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "FM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "FO",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "FR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GA",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GB",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GF",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GH",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GI",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GL",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GN",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GP",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GQ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GU",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GW",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "HR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "HU",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "IE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "IM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "IS",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "IT",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "JE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "JM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "KE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "KG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "KI",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "KM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "KN",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "KY",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "KZ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "LC",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "LI",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "LR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "LS",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "LT",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "LU",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "LV",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MC",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MD",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "ME",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MF",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MH",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MK",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "ML",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MP",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MQ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MS",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MT",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MU",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MV",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MW",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "MZ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "NA",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "NC",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "NE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "NF",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "NG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "NL",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "NO",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "NR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "NU",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "NZ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PF",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PL",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PN",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PS",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PT",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PW",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "RE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "RO",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "RS",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "RU",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "RW",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SB",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SC",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SI",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SK",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SL",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SN",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SO",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "ST",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "SZ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TC",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TD",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TJ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TK",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TL",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TO",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TR",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TT",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TV",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "TZ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "UA",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "UG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "US",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "UZ",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "VA",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "VC",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "VG",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "VI",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "VU",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "WF",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "WS",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "XK",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "YT",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "ZA",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "ZM",
+      "authID": "DERSEL"
+    },
+    {
+      "alpha2": "ZW",
+      "authID": "DERSEL"
+    }
+  ]
+}
