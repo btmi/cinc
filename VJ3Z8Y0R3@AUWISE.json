@@ -1,6 +1,6 @@
 {
   "cinc": "VJ3Z8Y0R3@AUWISE",
-  "lastUpdate": "2025-03-20T05:07:08Z",
+  "lastUpdate": "2026-05-04T04:25:00Z",
   "rules": [
     {
       "alpha2": "AU",
@@ -12,11 +12,11 @@
     },
     {
       "alpha2": "CN",
-      "authID": "AUORGN"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "HK",
-      "authID": "AUORGN"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "ID",
@@ -44,7 +44,7 @@
     },
     {
       "alpha2": "MO",
-      "authID": "AUORGN"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "MY",
@@ -68,7 +68,7 @@
     },
     {
       "alpha2": "TW",
-      "authID": "AUORGN"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "VN",

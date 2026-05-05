@@ -1,6 +1,6 @@
 {
   "cinc": "8Q4V8X56F@DKWISE",
-  "lastUpdate": "2025-03-21T00:26:52Z",
+  "lastUpdate": "2026-05-04T04:41:08Z",
   "rules": [
     {
       "alpha2": "AU",
@@ -24,7 +24,7 @@
     },
     {
       "alpha2": "CN",
-      "authID": "AUORGN"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "CX",
@@ -64,7 +64,7 @@
     },
     {
       "alpha2": "HK",
-      "authID": "AUORGN"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "ID",
@@ -112,7 +112,7 @@
     },
     {
       "alpha2": "MO",
-      "authID": "AUORGN"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "MY",
@@ -172,7 +172,7 @@
     },
     {
       "alpha2": "TW",
-      "authID": "AUORGN"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "US",

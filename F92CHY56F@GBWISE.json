@@ -1,6 +1,6 @@
 {
   "cinc": "F92CHY56F@GBWISE",
-  "lastUpdate": "2025-03-21T00:34:59Z",
+  "lastUpdate": "2026-05-04T04:31:07Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -160,7 +160,7 @@
     },
     {
       "alpha2": "CN",
-      "authID": "AUORGN"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "CO",
@@ -336,7 +336,7 @@
     },
     {
       "alpha2": "HK",
-      "authID": "AUORGN"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "HN",
@@ -520,7 +520,7 @@
     },
     {
       "alpha2": "MO",
-      "authID": "AUORGN"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "MP",
@@ -808,7 +808,7 @@
     },
     {
       "alpha2": "TW",
-      "authID": "AUORGN"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "TZ",
