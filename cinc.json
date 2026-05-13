@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-05T03:13:31Z",
+  "lastUpdate": "2026-05-12T07:05:27Z",
   "cinc": [
     "00ZWBB56F@GBWISE.json",
     "03CQN546F@GBBHMP.json",
@@ -2084,6 +2084,10 @@
     {
       "zid": 102506,
       "cinc": "257MUE8PT@GBWISE"
+    },
+    {
+      "zid": 102507,
+      "cinc": "DERSEL@DERSEL"
     }
   ]
 }
