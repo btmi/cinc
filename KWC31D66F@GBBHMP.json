@@ -1,6 +1,6 @@
 {
   "cinc": "KWC31D66F@GBBHMP",
-  "lastUpdate": "2026-01-17T04:55:36Z",
+  "lastUpdate": "2026-06-13T10:39:44Z",
   "rules": [
     {
       "alpha2": "AE",
@@ -241,6 +241,10 @@
     {
       "alpha2": "SC",
       "authID": "GBBHMP"
+    },
+    {
+      "alpha2": "SE",
+      "authID": "SEGRMN"
     },
     {
       "alpha2": "SG",
