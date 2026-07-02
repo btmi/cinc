@@ -1,958 +1,958 @@
 {
-  "cinc": "Y5G54HLVV@DEEPTR",
-  "lastUpdate": "2026-07-01T15:17:18Z",
+  "cinc": "USSBRD@USSBRD",
+  "lastUpdate": "2026-07-01T00:17:39Z",
   "rules": [
     {
       "alpha2": "AD",
-      "authID": "ESTRSK"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AE",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AF",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AG",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AI",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AL",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AM",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AN",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AO",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AR",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AS",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AT",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AU",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AW",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "AZ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BA",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BB",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BD",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BE",
-      "authID": "FRBOIS"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BF",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BG",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BH",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BI",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BJ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BM",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BN",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BO",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BR",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BS",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BT",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BW",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BY",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "BZ",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CA",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CC",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CD",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CF",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CG",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CH",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CI",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CK",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CL",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CM",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CN",
-      "authID": "CNEAPC"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CO",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CR",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CU",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CV",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CW",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CX",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CY",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "CZ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "DE",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "DJ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "DK",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "DM",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "DO",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "DZ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "EC",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "EE",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "EG",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "EH",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "ER",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "ES",
-      "authID": "ESTRSK"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "ET",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "FI",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "FJ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "FK",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "FM",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "FO",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "FR",
-      "authID": "FRBOIS"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GA",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GB",
-      "authID": "GBWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GD",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GE",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GF",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GG",
-      "authID": "GBWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GH",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GI",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GL",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GM",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GN",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GP",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GQ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GR",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GT",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GU",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GW",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "GY",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "HK",
-      "authID": "CNEAPC"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "HN",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "HR",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "HT",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "HU",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "ID",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "IE",
-      "authID": "GBWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "IL",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "IM",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "IN",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "IQ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "IR",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "IS",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "IT",
-      "authID": "ITUMGC"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "JE",
-      "authID": "GBWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "JM",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "JO",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "JP",
-      "authID": "JPZENN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "KE",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "KG",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "KH",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "KI",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "KM",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "KN",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "KP",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "KR",
-      "authID": "KREDKR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "KW",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "KY",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "KZ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "LA",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "LB",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "LC",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "LI",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "LK",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "LR",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "LS",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "LT",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "LU",
-      "authID": "FRBOIS"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "LV",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "LY",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MA",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MC",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MD",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "ME",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MF",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MG",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MH",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MK",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "ML",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MM",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MN",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MO",
-      "authID": "CNEAPC"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MP",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MQ",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MR",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MS",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MT",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MU",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MV",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MW",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MX",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MY",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "MZ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "NA",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "NC",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "NE",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "NF",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "NG",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "NI",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "NL",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "NO",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "NP",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "NR",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "NU",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "NZ",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "OM",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PA",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PE",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PF",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PG",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PH",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PK",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PL",
-      "authID": "PL_PWM"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PM",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PN",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PR",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PS",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PT",
-      "authID": "ESTRSK"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PW",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "PY",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "QA",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "RE",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "RO",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "RS",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "RU",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "RW",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SA",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SB",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SC",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SD",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SE",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SG",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SH",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SI",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SK",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SL",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SM",
-      "authID": "ITUMGC"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SN",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SO",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SR",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "ST",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SV",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SY",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "SZ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TC",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TD",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TG",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TH",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TJ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TK",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TL",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TM",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TN",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TO",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TR",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TT",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TV",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TW",
-      "authID": "CNEAPC"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "TZ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "UA",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "UG",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "US",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "UY",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "UZ",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "VA",
-      "authID": "ITUMGC"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "VC",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "VE",
-      "authID": "ARBRRY"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "VG",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "VI",
-      "authID": "USWISE"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "VN",
-      "authID": "AUORGN"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "VU",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "WF",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "WS",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "XK",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "YE",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "YT",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "ZA",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "ZM",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     },
     {
       "alpha2": "ZW",
-      "authID": "DEEPTR"
+      "authID": "USSBRD"
     }
   ]
 }

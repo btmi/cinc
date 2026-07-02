@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-13T10:39:44Z",
+  "lastUpdate": "2026-07-01T15:17:49Z",
   "cinc": [
     "00ZWBB56F@GBWISE.json",
     "03CQN546F@GBBHMP.json",
@@ -359,6 +359,7 @@
     "USLTTG@USLTTG.json",
     "USMTAM@USMTAM.json",
     "USODNP@USODNP.json",
+    "USSBRD@USSBRD.json",
     "USSBTO@USSBTO.json",
     "USTPSR@USTPSR.json",
     "USUSESNG@USUSESNG.json",
@@ -558,6 +559,7 @@
     "USMTAM.json",
     "USODNP.json",
     "USRWDL.json",
+    "USSBRD.json",
     "USSBTO.json",
     "USTPSR.json",
     "USWISE.json",
