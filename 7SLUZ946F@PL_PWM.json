@@ -1,6 +1,6 @@
 {
   "cinc": "7SLUZ946F@PL_PWM",
-  "lastUpdate": "2023-12-19T06:40:29Z",
+  "lastUpdate": "2026-07-06T23:33:48Z",
   "rules": [
     {
       "alpha2": "AL",
@@ -28,7 +28,7 @@
     },
     {
       "alpha2": "CN",
-      "authID": "PL_PWM"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "CU",

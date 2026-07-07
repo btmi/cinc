@@ -1,6 +1,6 @@
 {
   "cinc": "W2YQ0ANEE@PL_PWM",
-  "lastUpdate": "2025-07-07T09:32:25Z",
+  "lastUpdate": "2026-07-06T23:35:09Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -156,7 +156,7 @@
     },
     {
       "alpha2": "CN",
-      "authID": "PL_PWM"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "CR",
@@ -812,7 +812,7 @@
     },
     {
       "alpha2": "TW",
-      "authID": "PL_PWM"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "TZ",

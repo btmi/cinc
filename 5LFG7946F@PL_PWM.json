@@ -1,6 +1,6 @@
 {
   "cinc": "5LFG7946F@PL_PWM",
-  "lastUpdate": "2023-12-19T07:25:27Z",
+  "lastUpdate": "2026-07-06T23:34:09Z",
   "rules": [
     {
       "alpha2": "AL",
@@ -24,7 +24,7 @@
     },
     {
       "alpha2": "CN",
-      "authID": "PL_PWM"
+      "authID": "CNEAPC"
     },
     {
       "alpha2": "CU",
