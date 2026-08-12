@@ -1,6 +1,6 @@
 {
   "cinc": "F5MG6346F@USWISE",
-  "lastUpdate": "2024-11-12T22:44:46Z",
+  "lastUpdate": "2026-08-11T00:42:26Z",
   "rules": [
     {
       "alpha2": "CA",
@@ -8,6 +8,10 @@
     },
     {
       "alpha2": "MX",
+      "authID": "USWISE"
+    },
+    {
+      "alpha2": "PE",
       "authID": "USWISE"
     },
     {
