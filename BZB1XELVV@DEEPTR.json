@@ -1,6 +1,6 @@
 {
   "cinc": "BZB1XELVV@DEEPTR",
-  "lastUpdate": "2026-07-01T15:17:49Z",
+  "lastUpdate": "2026-08-27T10:02:28Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -76,7 +76,7 @@
     },
     {
       "alpha2": "BE",
-      "authID": "FRBOIS"
+      "authID": "DEEPTR"
     },
     {
       "alpha2": "BF",
@@ -284,7 +284,7 @@
     },
     {
       "alpha2": "FR",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "GA",
@@ -508,7 +508,7 @@
     },
     {
       "alpha2": "LU",
-      "authID": "FRBOIS"
+      "authID": "DEEPTR"
     },
     {
       "alpha2": "LV",
@@ -524,7 +524,7 @@
     },
     {
       "alpha2": "MC",
-      "authID": "DEEPTR"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "MD",
