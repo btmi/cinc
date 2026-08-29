@@ -1,6 +1,6 @@
 {
   "cinc": "DZCC2KLVV@DEEPTR",
-  "lastUpdate": "2026-08-27T10:05:07Z",
+  "lastUpdate": "2026-08-28T12:21:10Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -76,7 +76,7 @@
     },
     {
       "alpha2": "BE",
-      "authID": "DEEPTR"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "BF",
@@ -508,7 +508,7 @@
     },
     {
       "alpha2": "LU",
-      "authID": "DEEPTR"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "LV",
