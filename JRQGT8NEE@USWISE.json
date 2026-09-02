@@ -1,6 +1,6 @@
 {
   "cinc": "JRQGT8NEE@USWISE",
-  "lastUpdate": "2026-07-02T23:47:31Z",
+  "lastUpdate": "2026-09-01T05:18:18Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -76,7 +76,7 @@
     },
     {
       "alpha2": "BE",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "BF",
@@ -280,7 +280,7 @@
     },
     {
       "alpha2": "FR",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "GA",
@@ -504,7 +504,7 @@
     },
     {
       "alpha2": "LU",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "LV",
@@ -520,7 +520,7 @@
     },
     {
       "alpha2": "MC",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "MD",

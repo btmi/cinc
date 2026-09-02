@@ -1,6 +1,6 @@
 {
   "cinc": "Z52ZY466F@GBWISE",
-  "lastUpdate": "2025-03-21T00:36:44Z",
+  "lastUpdate": "2026-09-01T05:11:15Z",
   "rules": [
     {
       "alpha2": "AR",
@@ -8,7 +8,7 @@
     },
     {
       "alpha2": "BE",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "BN",
@@ -48,7 +48,7 @@
     },
     {
       "alpha2": "FR",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "GB",
@@ -76,7 +76,7 @@
     },
     {
       "alpha2": "LU",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "MM",

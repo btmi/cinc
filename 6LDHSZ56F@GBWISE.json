@@ -1,62 +1,62 @@
 {
   "cinc": "6LDHSZ56F@GBWISE",
-  "lastUpdate": "2026-04-26T10:25:13Z",
+  "lastUpdate": "2026-09-01T05:08:41Z",
   "rules": [
     {
       "alpha2": "AD",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "BE",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "BF",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "BI",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "BJ",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "CD",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "CF",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "CG",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "CI",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "CM",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "CV",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "DJ",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "DZ",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "EG",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "FR",
@@ -64,27 +64,27 @@
     },
     {
       "alpha2": "GA",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "GH",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "GM",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "GN",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "GQ",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "GW",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "IT",
@@ -92,67 +92,67 @@
     },
     {
       "alpha2": "KM",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "LU",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "MA",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "MC",
-      "authID": "FRBOIS"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "MG",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "ML",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "MR",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "MU",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "NE",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "RW",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "SC",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "SN",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "ST",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "TD",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "TG",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     },
     {
       "alpha2": "TN",
-      "authID": "GBWISE"
+      "authID": "FRWISE"
     }
   ]
 }
