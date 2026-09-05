@@ -1,6 +1,6 @@
 {
   "cinc": "U2UKCK56F@AT_UED",
-  "lastUpdate": "2025-03-05T09:06:41Z",
+  "lastUpdate": "2026-09-04T08:05:03Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -60,7 +60,7 @@
     },
     {
       "alpha2": "BE",
-      "authID": "FRUMGC"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "BF",
@@ -164,7 +164,7 @@
     },
     {
       "alpha2": "CZ",
-      "authID": "CZBRNP"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "DE",
@@ -176,7 +176,7 @@
     },
     {
       "alpha2": "DK",
-      "authID": "SELMED"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "DO",
@@ -192,7 +192,7 @@
     },
     {
       "alpha2": "EE",
-      "authID": "SELMED"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "EG",
@@ -208,7 +208,7 @@
     },
     {
       "alpha2": "ES",
-      "authID": "ESTRSK"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "ET",
@@ -216,7 +216,7 @@
     },
     {
       "alpha2": "FI",
-      "authID": "SELMED"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "FK",
@@ -232,7 +232,7 @@
     },
     {
       "alpha2": "FR",
-      "authID": "FRUMGC"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "GA",
@@ -300,7 +300,7 @@
     },
     {
       "alpha2": "HR",
-      "authID": "HRZAMP"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "HT",
@@ -308,7 +308,7 @@
     },
     {
       "alpha2": "HU",
-      "authID": "HUHZUK"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "ID",
@@ -340,7 +340,7 @@
     },
     {
       "alpha2": "IT",
-      "authID": "ITUMGC"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "JE",
@@ -404,15 +404,15 @@
     },
     {
       "alpha2": "LT",
-      "authID": "SELMED"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "LU",
-      "authID": "FRUMGC"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "LV",
-      "authID": "SELMED"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "LY",
@@ -484,7 +484,7 @@
     },
     {
       "alpha2": "MT",
-      "authID": "GB_MDS"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "MX",
@@ -560,7 +560,7 @@
     },
     {
       "alpha2": "PT",
-      "authID": "ESTRSK"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "PW",
@@ -600,7 +600,7 @@
     },
     {
       "alpha2": "SE",
-      "authID": "SELMED"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "SH",
@@ -608,11 +608,11 @@
     },
     {
       "alpha2": "SI",
-      "authID": "SIEDSS"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "SK",
-      "authID": "SKMFRM"
+      "authID": "AT_UED"
     },
     {
       "alpha2": "SM",
