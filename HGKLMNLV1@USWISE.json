@@ -1,6 +1,6 @@
 {
   "cinc": "HGKLMNLV1@USWISE",
-  "lastUpdate": "2026-05-04T04:43:39Z",
+  "lastUpdate": "2026-09-16T00:26:17Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -736,7 +736,7 @@
     },
     {
       "alpha2": "RU",
-      "authID": "DEEPTR"
+      "authID": "USWISE"
     },
     {
       "alpha2": "RW",
