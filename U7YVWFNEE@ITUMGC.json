@@ -1,6 +1,6 @@
 {
   "cinc": "U7YVWFNEE@ITUMGC",
-  "lastUpdate": "2026-07-21T14:16:06Z",
+  "lastUpdate": "2026-10-28T09:36:06Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -8,19 +8,19 @@
     },
     {
       "alpha2": "AE",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "AF",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "AG",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "AI",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "AL",
@@ -28,23 +28,23 @@
     },
     {
       "alpha2": "AM",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "AN",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "AO",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "AR",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "AS",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "AT",
@@ -52,15 +52,15 @@
     },
     {
       "alpha2": "AU",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "AW",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "AZ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BA",
@@ -68,11 +68,11 @@
     },
     {
       "alpha2": "BB",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BD",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BE",
@@ -80,7 +80,7 @@
     },
     {
       "alpha2": "BF",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BG",
@@ -88,15 +88,15 @@
     },
     {
       "alpha2": "BH",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BI",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BJ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BM",
@@ -104,27 +104,27 @@
     },
     {
       "alpha2": "BN",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BO",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BR",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BS",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BT",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BW",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "BY",
@@ -132,7 +132,7 @@
     },
     {
       "alpha2": "BZ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CA",
@@ -140,19 +140,19 @@
     },
     {
       "alpha2": "CC",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CD",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CF",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CG",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CH",
@@ -160,47 +160,51 @@
     },
     {
       "alpha2": "CI",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CK",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CL",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CM",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CN",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CO",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CR",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CU",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CV",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
+    },
+    {
+      "alpha2": "CW",
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CX",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CY",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "CZ",
@@ -212,7 +216,7 @@
     },
     {
       "alpha2": "DJ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "DK",
@@ -220,19 +224,19 @@
     },
     {
       "alpha2": "DM",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "DO",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "DZ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "EC",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "EE",
@@ -240,15 +244,15 @@
     },
     {
       "alpha2": "EG",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "EH",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "ER",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "ES",
@@ -256,7 +260,7 @@
     },
     {
       "alpha2": "ET",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "FI",
@@ -264,15 +268,15 @@
     },
     {
       "alpha2": "FJ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "FK",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "FM",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "FO",
@@ -284,7 +288,7 @@
     },
     {
       "alpha2": "GA",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "GB",
@@ -292,15 +296,15 @@
     },
     {
       "alpha2": "GD",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "GE",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "GF",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "GG",
@@ -308,7 +312,7 @@
     },
     {
       "alpha2": "GH",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "GI",
@@ -320,19 +324,19 @@
     },
     {
       "alpha2": "GM",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "GN",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "GP",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "GQ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "GR",
@@ -340,27 +344,27 @@
     },
     {
       "alpha2": "GT",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "GU",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "GW",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "GY",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "HK",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "HN",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "HR",
@@ -368,7 +372,7 @@
     },
     {
       "alpha2": "HT",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "HU",
@@ -376,7 +380,7 @@
     },
     {
       "alpha2": "ID",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "IE",
@@ -384,7 +388,7 @@
     },
     {
       "alpha2": "IL",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "IM",
@@ -392,15 +396,15 @@
     },
     {
       "alpha2": "IN",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "IQ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "IR",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "IS",
@@ -416,71 +420,71 @@
     },
     {
       "alpha2": "JM",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "JO",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "JP",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "KE",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "KG",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "KH",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "KI",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "KM",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "KN",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "KP",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "KR",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "KW",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "KY",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "KZ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "LA",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "LB",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "LC",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "LI",
@@ -488,15 +492,15 @@
     },
     {
       "alpha2": "LK",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "LR",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "LS",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "LT",
@@ -512,11 +516,11 @@
     },
     {
       "alpha2": "LY",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MA",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MC",
@@ -532,15 +536,15 @@
     },
     {
       "alpha2": "MF",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MG",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MH",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MK",
@@ -548,35 +552,35 @@
     },
     {
       "alpha2": "ML",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MM",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MN",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MO",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MP",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MQ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MR",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MS",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MT",
@@ -584,51 +588,51 @@
     },
     {
       "alpha2": "MU",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MV",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MW",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MX",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MY",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "MZ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "NA",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "NC",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "NE",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "NF",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "NG",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "NI",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "NL",
@@ -640,47 +644,47 @@
     },
     {
       "alpha2": "NP",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "NR",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "NU",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "NZ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "OM",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "PA",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "PE",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "PF",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "PG",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "PH",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "PK",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "PL",
@@ -692,15 +696,15 @@
     },
     {
       "alpha2": "PN",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "PR",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "PS",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "PT",
@@ -708,19 +712,19 @@
     },
     {
       "alpha2": "PW",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "PY",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "QA",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "RE",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "RO",
@@ -736,23 +740,23 @@
     },
     {
       "alpha2": "RW",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SA",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SB",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SC",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SD",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SE",
@@ -760,11 +764,11 @@
     },
     {
       "alpha2": "SG",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SH",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SI",
@@ -776,7 +780,7 @@
     },
     {
       "alpha2": "SL",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SM",
@@ -784,91 +788,91 @@
     },
     {
       "alpha2": "SN",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SO",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SR",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "ST",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SV",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SY",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "SZ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TC",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TD",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TG",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TH",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TJ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TK",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TL",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TM",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TN",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TO",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TR",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TT",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TV",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TW",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "TZ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "UA",
@@ -876,7 +880,7 @@
     },
     {
       "alpha2": "UG",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "US",
@@ -884,11 +888,11 @@
     },
     {
       "alpha2": "UY",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "UZ",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "VA",
@@ -896,35 +900,35 @@
     },
     {
       "alpha2": "VC",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "VE",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "VG",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "VI",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "VN",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "VU",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "WF",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "WS",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "XK",
@@ -932,23 +936,23 @@
     },
     {
       "alpha2": "YE",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "YT",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "ZA",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "ZM",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     },
     {
       "alpha2": "ZW",
-      "authID": "ITUMGC"
+      "authID": "GBUMGC"
     }
   ]
 }
