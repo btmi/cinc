@@ -1,6 +1,6 @@
 {
   "cinc": "24FSM6VEE@USTPSR",
-  "lastUpdate": "2025-11-11T23:02:38Z",
+  "lastUpdate": "2026-11-03T22:28:26Z",
   "rules": [
     {
       "alpha2": "AD",
@@ -52,7 +52,7 @@
     },
     {
       "alpha2": "AU",
-      "authID": "USTPSR"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "AW",
@@ -652,7 +652,7 @@
     },
     {
       "alpha2": "NZ",
-      "authID": "USTPSR"
+      "authID": "AUORGN"
     },
     {
       "alpha2": "OM",
