@@ -1,0 +1,290 @@
+{
+  "cinc": "TGH640R0P@GBFBRM",
+  "lastUpdate": "2026-11-12T04:24:23Z",
+  "rules": [
+    {
+      "alpha2": "AE",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "AG",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "AI",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "AN",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "AR",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "AU",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "BD",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "BH",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "BO",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "BR",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "BZ",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "CL",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "CN",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "CO",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "CR",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "CU",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "DO",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "DZ",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "EC",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "EG",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "FK",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "GD",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "GT",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "GY",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "HK",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "HN",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "HT",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "ID",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "IL",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "IN",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "IQ",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "IR",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "JO",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "JP",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "KH",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "KP",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "KR",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "KW",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "LA",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "LB",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "LK",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "LY",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "MA",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "MM",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "MN",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "MO",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "MX",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "MY",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "NI",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "NP",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "OM",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "PA",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "PE",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "PH",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "PK",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "PR",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "PY",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "QA",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "SA",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "SD",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "SG",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "SH",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "SV",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "SY",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "TH",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "TN",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "TW",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "UY",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "VE",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "VN",
+      "authID": "GBFBRM"
+    },
+    {
+      "alpha2": "YE",
+      "authID": "GBFBRM"
+    }
+  ]
+}
